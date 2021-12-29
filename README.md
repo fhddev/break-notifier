@@ -25,11 +25,11 @@ Windows operating system.
 ## Quick Start
 
 Download and run:
-1. If you have .NET 5 runtime downloaded on your machine, then download the from [here (Published as Framework-Dependent)](https://duckduckgo.com)
+1. If you have .NET 5 runtime downloaded on your machine, then download the from [here (Published as Framework-Dependent)](https://github.com/fhddev/break-notifier/releases/download/v0.1.0/break-notifier_fd.zip)
 2. If you do not have .NET 5 runtime installed on your machine, then download from the list:
-    - [Self-Contained](https://duckduckgo.com)
-    - [Self-Contained (Unused assamblies trimmed)](https://duckduckgo.com)
-    - (Recommended) [Self-Contained Single File (Unsed assablies trimmed)](https://duckduckgo.com)
+    - [Self-Contained](https://github.com/fhddev/break-notifier/releases/download/v0.1.0/break-notifier_sc.zip)
+    - [Self-Contained (Unused assamblies trimmed)](https://github.com/fhddev/break-notifier/releases/download/v0.1.0/break-notifier_sc_tua.zip)
+    - (Recommended) [Self-Contained Single File (Unsed assablies trimmed)](https://github.com/fhddev/break-notifier/releases/download/v0.1.0/break-notifier_sc_tua_sf.zip)
 
 
 ## License
